@@ -1,0 +1,25 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "description": "cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "^C"
+  },
+  "author": "Therese Mbama",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teembama/JavaScript.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "bugs": {
+    "url": "https://github.com/teembama/JavaScript/issues"
+  },
+  "homepage": "https://github.com/teembama/JavaScript#readme"
+}
